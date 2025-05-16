@@ -18,7 +18,12 @@ export default function Home() {
             .
           </li>
           <li className="tracking-[-.01em]">
-            test fixsomething.
+            test fixsomething
+            .
+          </li>
+          <li className="tracking-[-.01em]">
+            we need to test !
+            .
           </li>
         </ol>
 
