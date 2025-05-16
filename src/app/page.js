@@ -25,6 +25,10 @@ export default function Home() {
             we need to test !
             .
           </li>
+          <li className="tracking-[-.01em]">
+            new test brance text_01
+            .
+          </li>
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
